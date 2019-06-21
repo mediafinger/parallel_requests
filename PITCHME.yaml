@@ -1,0 +1,21 @@
+#
+# GitPitch Slideshow Custom Settings
+#
+# For details, visit Wiki:
+# https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
+#
+
+# Layout
+layout : center-right
+# vertical-center : true
+
+# Look-and-Feel
+logo : "assets/ruby_400x400.png"
+theme : night
+theme-override : custom.css
+highlight : ir-black # solarized-light
+footnote : "Andreas Finger :: June 2019 :: Barcelona :: @mediafinger on Github and Twitter"
+
+# Behavior
+transition : none
+published : false
